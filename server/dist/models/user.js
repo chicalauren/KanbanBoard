@@ -36,3 +36,4 @@ export function UserFactory(sequelize) {
     });
     return User;
 }
+export default User;
